@@ -52,4 +52,9 @@ Feel free to add your explanations, visuals, or resources to make this repositor
 
 ---
 
+# 🎥 **Watch This Video for a Detailed Explanation!**  
+[![Working of Human Heart](https://img.youtube.com/vi/2Ore5jKedrU/0.jpg)](https://youtu.be/2Ore5jKedrU?si=dEsU8OrJDEr6yUFi)  
+
+---
+
 **Thank you for visiting this repository! 💓 Keep Learning and Stay Curious!**
