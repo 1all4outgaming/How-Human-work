@@ -9,12 +9,12 @@ Welcome to the repository for **Working of Human Heart**! Here, we explore the f
 The human heart is a muscular organ that pumps blood throughout the body. It works in coordination with blood vessels to ensure oxygen and nutrients reach every cell. Here's a simple step-by-step explanation of its working:
 
 1. **Right Side of the Heart:**
-   - Deoxygenated blood (without oxygen) from the body enters the **right atrium** through large veins called the **vena cava**.
+   - Deoxygenated blood (without oxygen) from the body enters the **right atrium** (also known as the **right auricle**) through large veins called the **vena cava**.
    - The **right atrium** contracts and pushes blood into the **right ventricle**.
    - The **right ventricle** pumps this blood to the lungs through the **pulmonary artery**, where it gets oxygenated.
 
 2. **Left Side of the Heart:**
-   - Oxygenated blood from the lungs returns to the **left atrium** through the **pulmonary veins**.
+   - Oxygenated blood from the lungs returns to the **left atrium** (also known as the **left auricle**) through the **pulmonary veins**.
    - The **left atrium** contracts and sends blood to the **left ventricle**.
    - The **left ventricle**, the strongest chamber, pumps oxygen-rich blood to the rest of the body through the **aorta**.
 
@@ -36,7 +36,7 @@ To make understanding easier, here are diagrams that illustrate the heart's stru
 ---
 
 ## 🔎 **Key Points to Remember:**
-- The heart has **4 chambers**: Right Atrium, Right Ventricle, Left Atrium, and Left Ventricle.
+- The heart has **4 chambers**: Right Atrium (Auricle), Right Ventricle, Left Atrium (Auricle), and Left Ventricle.
 - **Valves** in the heart prevent blood from flowing backward.
 - Blood flows in two loops: **Pulmonary Circulation** (heart ↔ lungs) and **Systemic Circulation** (heart ↔ body).
 
